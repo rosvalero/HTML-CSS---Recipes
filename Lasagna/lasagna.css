@@ -1,0 +1,227 @@
+body{
+    background-image: url(../images/fondo\ 2.jpg);
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    margin:0 auto;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 0px;
+}
+
+.menu1{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 2px;
+    margin: 10px 0px;
+    padding: 20px 0px 20px 0px;
+    background-color: #1f1d1d6e;
+}
+
+.menu1 a{
+    color: white;
+    text-decoration: none;
+    margin: 0px 30px;
+    padding: 20px 20px;
+    transition: 0.4s all;
+}
+
+.menu1 a:hover{
+    color: #c48d00;
+    font-weight: 500;
+    letter-spacing: 2px;
+    background-color: #ffffffb4;
+}
+
+.barradenavegacion{
+    display: inline-flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.lasagna{
+    background-color: #ffffffde;
+    width: 740px;
+    margin-left: 300px;
+}
+
+.lasagna h2{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    letter-spacing: 3px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+
+.lasagna-explicacion{
+    display: flex;
+}
+
+.lasagna-explicacion img{
+    width: 350px;
+    height: 350px;
+    padding: 0px 10px 20px 20px;
+}
+
+.lasagna p{
+    font-family: 'Noto Serif', serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: justify;
+    padding: 0px 20px 20px 10px;
+    margin: 0px 0px;
+}
+
+.ingredientes{
+    width: 740px;
+    background-color: #ffffffde;
+    margin-left: 300px;
+}
+
+.ingredientes h3{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    letter-spacing: 3px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+
+.ingredientes ul{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 18px;
+    font-weight: 600;
+    list-style: none;
+    padding: 0px 20px 20px 20px;
+}
+
+iframe{
+    display: block;
+    margin: 0 auto;
+}
+
+.preparacion{
+    width: 740px;
+    background-color: #ffffffde;
+    margin-left: 300px;
+}
+
+.preparacion h3{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    letter-spacing: 3px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+
+.preparacion ol{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 0px 20px 0px 50px;
+}
+
+.preparacion img{
+    width: 700px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    padding: 0px 20px 20px 20px;
+}
+
+.coccion{
+    width: 740px;
+    background-color: #ffffffde;
+    margin-left: 300px;
+}
+
+.coccion h3{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    letter-spacing: 3px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+
+.coccion p{
+    font-family: 'Noto Serif', serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: justify;
+    padding: 0px 20px 0px 20px;
+}
+
+.coccion img{
+    width: 700px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    padding: 0px 20px 20px 20px;
+}
+
+footer{
+    background-color: #1f1d1d6e;
+    margin: 20px 0px 0px 0px;
+}
+
+footer h4{
+    font-size: 20px;
+    font-weight: 500;
+    display: inline-flex;
+    padding: 0px 100px 0px 300px;
+    color: white;
+}
+
+.redes{
+    margin: 0px 0px 0px 297px;
+}
+
+.redes img{
+    padding: 0px 10px;
+    margin-bottom: 25px;
+}
+
+.redes, .nav-footer{
+    display: inline-block;
+}
+
+.barradenavegacion2 a{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: 0.4s all;
+    margin-left: 360px;
+}
+
+.barradenavegacion2{
+    list-style-type: none;
+}
+
+.barradenavegacion2 a:hover{
+    color: #c48d00;
+    background-color: #ffffffb4;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+    padding: 20px 0px;
+    margin: 0px;
+}
+
+
+
+
+
+
